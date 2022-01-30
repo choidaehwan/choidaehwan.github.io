@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "django강"
+title: "django강의"
 toc: true
 toc_sticky: true
 toc_label: "On this page"
