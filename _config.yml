@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "dirt" # "contrast", "aqua", "default", "dark", "air", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Today I Learned"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "Slow and steady wins the race." # site tagline that appears below site title in masthead
 name                     : "최대환"
 description              : "개발 "
 url                      : "https://choidaehwan.github.io"
@@ -288,6 +288,9 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      
+date_format: "%Y-%m-%d"
 
       
 comments:
