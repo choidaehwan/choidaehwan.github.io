@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "최대환"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "훌륭한 **백엔드 개발자**가 되고 싶습니다."
+  bio              : "Life is too short, you need Python" #"훌륭한 **백엔드 개발자**가 되고 싶습니다."
   location         : "Seoul"
   email            : "choidaehwan9282@gmail.com"
   links:
