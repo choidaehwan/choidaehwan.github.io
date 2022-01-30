@@ -1,6 +1,9 @@
 ---
 layout: single
 title: "django강"
+toc: true
+toc_sticky: true
+toc_label: "On this page"
 ---
 ## 오늘 공부한 것
 #### 코드잇 - Django 강의
