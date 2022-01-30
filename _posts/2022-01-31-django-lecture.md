@@ -1,9 +1,8 @@
 ---
 layout: single
-title: "Django란"
+title: "django강"
 ---
 ## 오늘 공부한 것
-
 #### 코드잇 - Django 강의
 homebrew: macOS 패키지 관리 프로그램. 패키지 설치부터 제거까지 간단히 가능
 pyvenv: 파이썬 버전 설치, 관리
