@@ -1,4 +1,7 @@
-
+---
+layout: single
+title: "개발자를 위한 구글링 꿀팁"
+---
 >- 참고자료
 https://makemoneyskills.com/googling-31-tips/
 https://blog.daum.net/dosman1/2004
