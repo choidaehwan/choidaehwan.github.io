@@ -20,7 +20,7 @@ title                    : "Today I Learned"
 title_separator          : "|"
 subtitle                 : "Slow and steady wins the race." # site tagline that appears below site title in masthead
 name                     : "최대환"
-description              : "개발 "
+description              : " 블로그입니다."
 url                      : "https://choidaehwan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
