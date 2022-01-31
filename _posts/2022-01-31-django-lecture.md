@@ -2,8 +2,6 @@
 layout: single
 title: "django강의"
 toc: true
-toc_sticky: true
-toc_label: "On this page"
 categories: TIL
 ---
 ## 오늘 공부한 것
