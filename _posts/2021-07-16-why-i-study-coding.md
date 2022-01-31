@@ -2,8 +2,6 @@
 layout: single
 title: "컴퓨터에 문외한이었던 내가 개발을 시작하기 까지"
 toc: true
-toc_sticky: true
-toc_label: "On this page"
 categories: retrospection
 ---
 
