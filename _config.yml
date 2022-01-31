@@ -220,6 +220,18 @@ paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num/    #/page:num/
 timezone: Asia/Seoul
 
+# 
+plugins:
+    - jekyll-paginate-v2
+
+pagination:
+    enabled: true
+    per_page: 5     # 5개씩 보여주기
+    limit: 0
+    sort_field: "date"
+    sort_reverse: true
+    title: ':title'     # 타이틀 형식
+
 
 # Plugins (previously gems:)
 plugins:
