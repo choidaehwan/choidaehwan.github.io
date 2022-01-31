@@ -3,7 +3,7 @@ layout: single
 title: "leetcode121, 네트워크 계층"
 toc: true
 categories: TIL
-tag: [Algorithmn, Network]
+tag: [Algorithmn, Computer Science]
 ---
 
 ## 오늘 공부한 것
