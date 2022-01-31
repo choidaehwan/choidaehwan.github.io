@@ -225,12 +225,9 @@ plugins:
     - jekyll-paginate-v2
 
 pagination:
-    enabled: true
-    per_page: 5     # 5개씩 보여주기
-    limit: 0
-    sort_field: "date"
-    sort_reverse: true
-    title: ':title'     # 타이틀 형식
+  enabled: true
+  per_page: 9
+  sort_reverse: true # 안 해주면 오래된 것부터 나옴
 
 
 # Plugins (previously gems:)
