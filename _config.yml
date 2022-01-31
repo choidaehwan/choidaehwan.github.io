@@ -220,15 +220,6 @@ paginate: 5 # amount of posts to show
 paginate_path: ./page:num/    #/blog/page:num/
 timezone: Asia/Seoul
 
-# 
-# plugins:
-#     - jekyll-paginate-v2
-
-# pagination:
-#   enabled: true
-#   per_page: 9
-#   sort_reverse: true # 안 해주면 오래된 것부터 나옴
-
 
 # Plugins (previously gems:)
 plugins:
