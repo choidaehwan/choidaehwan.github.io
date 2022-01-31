@@ -2,8 +2,6 @@
 layout: single
 title: "leetcode121, 네트워크 계층"
 toc: true
-toc_sticky: true
-toc_label: "On this page"
 categories: TIL
 tag: [Algorithmn, Network]
 ---
