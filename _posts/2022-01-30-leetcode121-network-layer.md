@@ -5,6 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On this page"
 categories: TIL
+tag: [Algorithmn, Network]
 ---
 
 ## 오늘 공부한 것
