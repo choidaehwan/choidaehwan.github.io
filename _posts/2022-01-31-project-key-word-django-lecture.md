@@ -1,11 +1,24 @@
 ---
 layout: single
-title: "django강의"
+title: "영차피디아 keyword, django강의"
 toc: true
 categories: TIL
 tag: Django
 ---
 ## 오늘 공부한 것
+#### 영차피디아 프로젝트 복습해야할 keyword 정리
+- List comprehension (2중 for문)
+- Encode, decode
+- Jwt
+- 파이썬 데코레이터(wrapper)
+- Request.user
+- 동적 프로그래밍 언어
+- 에러별 설명(key error, token errors)
+- 토큰을 header 에 넣는 이유
+- 데이터베이스에 byte가 아닌 str 로 넣어야 하는 이유
+- python(*args, **kwargs) 같은 파라미터 
+- 데이터베이스에서 1char가 차지하는 용량
+
 #### 코드잇 - Django 강의
 - homebrew: macOS 패키지 관리 프로그램. 패키지 설치부터 제거까지 간단히 가능
 - pyvenv: 파이썬 버전 관리 패키지
@@ -16,5 +29,7 @@ tag: Django
   
   사진과 맨 위에 있는 것을 클릭해준다. 
   그리고 터미널에서 원하는 위치로 가서 `code .`를 입력해주면 된다.
+- global가상환경: 시스템 전역에 적용하는 환경. 따로 지정해주지 않아도 자동으로 global환경 적용
+- local가상환경: 특정 디렉토리 내부에서만 적용되는 환경. global환경이 지정되어 있더라도
   
  
