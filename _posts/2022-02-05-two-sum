@@ -1,0 +1,25 @@
+---
+layout: single
+title: "leetcode217"
+toc: true
+categories: TIL
+tag: [Algorithmn]
+---
+
+### 문제
+![](https://images.velog.io/images/gigymi2010/post/acbf74b3-6750-403c-b444-77f3cb615cf7/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-12-16%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.53.11.png)
+> 리스트안에 있는 두값을 더해서 정수 target이 나오는 인덱스를 출력하는 문제였다.
+
+### 풀이
+```python
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        for index1 in range(len(nums)):
+            num1 = nums[index1]
+            for index2 in range(index1 + 1, len(nums)):
+                num2 = nums[index2]
+                if num1 + num2 == target:
+                    return [index1, index2]
+```
+> 이중 for문을 사용해서 만약 첫번째값과 두번째 값의 합이 target값이 나오면 해당 인덱스들을 바로 return하였다.
+
