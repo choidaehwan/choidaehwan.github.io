@@ -1,7 +1,8 @@
 ---
 layout: single
+title: "leetcode 88"
 toc: true
-categories: Algorithmn
+categories: retrospection
 ---
 
 ```python
