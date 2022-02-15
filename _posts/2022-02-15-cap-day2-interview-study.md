@@ -3,6 +3,7 @@ layout: single
 title: "Cap@ 교육 2일차"
 toc: true
 categories: TIL
+tag: [Security]
 ---
 
 # 📚오늘의 공부📚
