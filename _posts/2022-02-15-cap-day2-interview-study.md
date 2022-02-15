@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Cap@ 교육 2일차"
+title: "Cap@ 교육 2일차와 면접스터디"
 toc: true
 categories: TIL
 tag: [Security]
