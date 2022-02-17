@@ -88,5 +88,5 @@ cap@교육이 드디어 끝났다!!
 매일 꾸준하게 성장하는 개발자가 되자🔥🔥
 
 
-[참조 영상](https://www.youtube.com/watch?v=-wsYtm0x3nw)    
+> [참조 영상](https://www.youtube.com/watch?v=-wsYtm0x3nw)    
 [참고 블로그](https://velog.io/@lucky-korma/DFS-BFS%EC%9D%98-%EC%84%A4%EB%AA%85-%EC%B0%A8%EC%9D%B4%EC%A0%90)
