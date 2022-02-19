@@ -18,7 +18,7 @@ categories: TIL
 -유지 보수하기편함
 - django는 자동으로 관리자 화면을 구성(admin 페이지를 말하는거 같다)
 
- #### Django를 사용하는 사이트
+#### Django를 사용하는 사이트
  Instagram, Spotify, YouTube, Dropbox, Bitbucket, Eventbrite...
 
 ---
