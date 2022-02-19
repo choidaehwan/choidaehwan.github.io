@@ -6,6 +6,7 @@ categories: TIL
 ---
 # 📚오늘의 공부📚
 ## ✅ Django vs Flask
+![image](https://user-images.githubusercontent.com/74276716/154807632-69e4afed-b2b5-4973-a0f2-714c0c89c079.png)
 
 
 ### Django
